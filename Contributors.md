@@ -46,6 +46,7 @@
 [rawrex](https://github.com/rawrex)
 [YP](https://github.com/yoonpyaepyaenyein)
 - [MMM](https://github.com/MyoMyatMin)
+- [Salvador Galan] (https://github.com/SalGalan)
 - [Mika S.](https://github.com/MikaStrait)
 - [Rishi Koul](https://github.com/rishi-koul)
 - [Amanda Nikrant](https://github.com/ajnikrant)
